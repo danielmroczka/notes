@@ -1,0 +1,16 @@
+title: Notes
+email: daniel.mroczka  
+description: >- 
+  Notes
+baseurl: "/notes" # Ważne! Zmień na /nazwa-twojego-repozytorium JEŚLI to blog projektu.
+                                    # Jeśli to twojanazwauzytkownika.github.io, pozostaw baseurl: ""
+url: "https://danielmroczka.github.io" # Zastąp twojanazwauzytkownika swoją nazwą użytkownika GitHub
+twitter_username: twoj_twitter # Opcjonalnie
+github_username: twoja_nazwa_github # Opcjonalnie
+
+# Build settings
+markdown: kramdown
+theme: minima # Domyślny motyw Jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
